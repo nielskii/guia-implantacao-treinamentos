@@ -32,7 +32,7 @@ O módulo "Plataforma de Treinamentos Internos" permite que usuários acessem, a
   - Variáveis de ambiente: `.env`
     - `APP_NAME`, `APP_ENV`, `APP_DEBUG`, `APP_URL`
     - `DB_HOST`, `DB_PORT`, `DB_DATABASE`, `DB_USERNAME`, `DB_PASSWORD`
-    - ``MAIL_MAILER`, `MAIL_HOST`, `MAIL_PORT`, `MAIL_USERNAME`, `MAIL_PASSWORD`
+    - `MAIL_MAILER`, `MAIL_HOST`, `MAIL_PORT`, `MAIL_USERNAME`, `MAIL_PASSWORD`
     - `QUEUE_CONNECTION=redis`, `CACHE_DRIVER=redis`
   - Parâmetros de conexão definidos no banco de dados definidos em `.env` e `config/database.php`. 
  - Serviços de e-mail é o `SMTP` configurado via `.env`.   
