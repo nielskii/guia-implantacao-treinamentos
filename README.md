@@ -62,6 +62,16 @@ O módulo "Plataforma de Treinamentos Internos" permite que usuários acessem, a
 - Sugestão: Adicionar testes automatizados específicos para uploads de arquivos, realizar testes de integração com o serviço de e-mail já no ambiente de homologação, configurar monitoramento com alertas automáticos para APIs críticas e criar um checklist interno de verificação de permissões e roles de usuários antes do deploy.
 
 ## 8. Anexos
-- [Documentação Técnica](https://github.com/seuusuario/gestor-tarefas/docs)
-- [Script de Migração de Banco](https://github.com/seuusuario/gestor-tarefas/scripts/migrate.sql)
-- [Modelo de Relatório de Testes](https://github.com/seuusuario/gestor-tarefas/testes/relatorio.md)
+- [Documentação Técnica]
+  - (https://github.com/nielskii/guia-implantacao-treinamentos/blob/main/docs/introducao-tecnica.md)
+  - (https://github.com/nielskii/guia-implantacao-treinamentos/blob/main/docs/manual-usuario.md)
+
+- [Script de Migração de Banco]
+  - (https://github.com/nielskii/guia-implantacao-treinamentos/blob/main/scripts/init-db.sql)
+  - (https://github.com/nielskii/guia-implantacao-treinamentos/blob/main/scripts/seeds.sql)
+  - (https://github.com/nielskii/guia-implantacao-treinamentos/blob/main/scripts/.env.example)
+
+- [Modelo de Relatório de Testes]
+  - (https://github.com/nielskii/guia-implantacao-treinamentos/blob/main/testes/relatorio-validacao.md)
+  - (https://github.com/nielskii/guia-implantacao-treinamentos/blob/main/testes/checklist.md)
+  - (https://github.com/nielskii/guia-implantacao-treinamentos/blob/main/testes/incidentes.md)
